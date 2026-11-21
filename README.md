@@ -1,9 +1,9 @@
-# YYTOOLS — AutoCAD / Civil 3D araç seti (30 günlük demo)
+﻿# YYTOOLS — AutoCAD / Civil 3D araç seti (30 günlük demo)
 
 YYTOOLS, yol ve altyapı projelerinde günlük çizim işlerini hızlandıran bir AutoCAD şerit menüsüdür:
 LISP komutları, temalı pencereler ve bir .NET eklentisi tek MSI ile kurulur.
 
-**İndir:** [Releases](../../releases/latest) → `YYTOOLS-2.39.0-DEMO.msi`
+**İndir:** [Releases](../../releases/latest) → `YYTOOLS-2.39.1-DEMO.msi`
 
 ## Başlıca araçlar
 - **Güzergah Editörü** — Netcad KTB / LandXML güzergahı açar; yatay (PI) ve düşey (PVI) tablolarda düzenleme,
